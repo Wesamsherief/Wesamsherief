@@ -12,23 +12,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-</p>
-<p align="left">
-  <!-- SQLite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
   
-  <!-- REST API -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="REST API"/>
-
-  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-
-  <!-- Codex / OpenAI -->
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="40" height="40" alt="Codex"/>
-
-  <!-- LeetCode -->
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode"/>
 </p>
+
 
 
 <!--
